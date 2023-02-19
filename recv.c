@@ -11,6 +11,9 @@
 #include <arpa/inet.h>
 #include <time.h>
 #include <stdio.h>
+#include <unistd.h>
+#include <strings.h>
+#include <stdlib.h>
 
 #define GROUP "233.31.185.1"
 #define PORT 32767
